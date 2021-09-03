@@ -4,7 +4,7 @@ int main()
 {
 	int op1, op2, suma, resta;
 
-	printf("Operando 1: ");
+	printf("Operando 1 Test: ");
 	scanf("%d" ,&op1);
 	printf("Operando 2: ");
 	scanf("%d", &op2);
